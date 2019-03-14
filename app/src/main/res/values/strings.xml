@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Photo</string>
+    <string name="photos">Photos</string>
+
+    <string name="photos_loaded">Les photos ont bien été récupérés.</string>
+    <string name="photos_loading_error">Désolé, une erreur a empêché la récupération des photos.</string>
+
+    <string name="delete_photo">Supprimer une photo</string>
+    <string name="delete_photo_warning">Voulez-vous vraiment supprimer cette photo ?</string>
+
+    <string name="create_photo">Créer une photo</string>
+    <string name="title">Titre</string>
+    <string name="confirm">Confirmer</string>
+</resources>
